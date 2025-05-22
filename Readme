@@ -26,3 +26,9 @@ The Real-Time Job Analytics Portal uses filters including job title, business si
 
 7. Draw a chart where country=’india and Germany ’ ,qualification=’B.tech’ and work type=’Full time’ where experience should be more than 2 years and job should be Data Scienctist , Art Teacher and AeroSpace Engineer and salary range should be more than $10k . The india details should be on orange color and Germany details should be on green color . The job portal should be indeed and preference should be female . The job posting date should be below 08/01/2023 and jon portal should be indeed . This graph should work only between 3PM IST to 5 PM IST apart from that time we should not show this graph in dashboard itself.
 
+
+Netlify Link- http://aditya-khadke-ak.netlify.app
+
+Netlify Link Nullclass Training - https://jobdescription5.netlify.app/
+
+Dataset Link - https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
